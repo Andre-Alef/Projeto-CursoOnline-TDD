@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=643c1415_002D327c_002D4375_002D9106_002D2cacef1806a7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DeveAdicionarCurso" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.ArmazenadorDeCursoTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3c7b4bc_002D17b0_002D4a60_002D9bb9_002D907e93369876/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="NaoDeveCursoTerUmNomeVazio" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.CursoTest.NaoDeveCursoTerUmNomeVazio&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.CursoTest.NaoDeveCursoTerUmNomeNulo&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.CursoTest.DeveCriarCurso&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.CursoTest.NaoDeveCursoTerUmNomeInvalido&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.CursoTest.NaoDeveCursoTerCargaHorariaMenorQueUm&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.CursoTest.NaoDeveCursoTerValorMenorQueUm&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.ArmazenadorDeCursoTest.DeveAdicionarCurso&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d39d4db9_002D345f_002D4512_002D80ac_002D6201a71299ce/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DeveCriarCurso" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.CursoTest.DeveCriarCurso&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::38446713-99FF-47F4-BCFF-36190A2671AD::.NETCoreApp,Version=v3.1::CursoOnline.DominioTest.Cursos.CursoTest.NaoDeveCursoTerUmNomeVazio&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
